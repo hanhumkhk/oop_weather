@@ -1,0 +1,23 @@
+* {
+    font-family: Arial;
+}
+
+#description {
+    font-size: large;
+    background-color: rgba(241, 240, 157, 0.99);
+    padding: 5px;
+}
+
+#location {
+    background-color: #ff7a49;
+}
+
+#temp {
+    margin: 1px;
+    background-color: #614e88;
+}
+
+#temp, #location, #description {
+    border-radius: 3px;
+    text-align: center;
+}
